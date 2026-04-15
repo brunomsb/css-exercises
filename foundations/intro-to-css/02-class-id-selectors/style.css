@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.pink {
+    background-color: rgb(230, 140, 147);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+.big {
+    font-size: 24px;
+}
+
+#green {
+    background-color: rgb(143, 255, 121);
+    font-weight: bold;
+}
+
+#blue {
+    color: rgb(4, 0, 255);
+    font-size: 36px;
+}
